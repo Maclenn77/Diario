@@ -13,4 +13,8 @@ Falta una opción para agregar texto a un documento ya creado en el menú. Si se
 
 Por el momento, solo se puede buscar archivos por fecha.
 
+Añadir diseño de clases
+
 Agregar errores o excepciones
+
+Añadir tests
